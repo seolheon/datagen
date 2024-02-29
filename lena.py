@@ -11,7 +11,6 @@ data = pd.read_csv("cats_dataset.csv")
 # Удалим столбец 'Name', так как он не несет информационной нагрузки для обучения модели
 data.drop(columns=['Name'], inplace=True)
 
-# Предположим, что в столбце 'Breed' содержится целевая переменная - порода кошки
 # Преобразование текстовых значений пород кошек в числовые индексы с помощью метода pd.factorize()
 data['Breed'], breed_mapping = pd.factorize(data['Breed'])
 
@@ -57,7 +56,6 @@ plt.show()
 data_new = pd.read_csv("test_dataset.csv")
 X_new = data_new.drop(columns=['Breed','Name']).values
 
-# Вызов метода predict() для модели и передача новых данных X_new
 predictions = model.predict(X_new)
 
 # Преобразование числовых предсказаний в текстовые значения пород кошек с использованием соответствия
@@ -65,8 +63,7 @@ predicted_breeds_index = [np.argmax(prediction) for prediction in predictions]
 predicted_breeds = [breed_index_to_name[index] for index in predicted_breeds_index]
 
 # Создание DataFrame с характеристиками кошек и предсказанными породами
-predicted_data = pd.DataFrame(X_new, columns=data.columns[1:])  # Создаем DataFrame с характеристиками кошек без столбца 'Name'
-predicted_data['Predicted Breed'] = predicted_breeds  # Добавляем предсказанные породы в DataFrame
+predicted_data = pd.DataFrame(X_new, columns=data.columns[1:])
+predicted_data['Predicted Breed'] = predicted_breeds
 
-# Вывод DataFrame с предсказанными породами
 print(predicted_data)
