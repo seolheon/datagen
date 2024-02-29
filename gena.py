@@ -52,7 +52,7 @@ def generate_dataset():
                        "vocalization": (3, 5), "adaptability": (8, 10)}
     }
 
-    total_samples = 1000
+    total_samples = 10
     num_samples = {breed: random.randint(1, total_samples // len(breeds_characteristics)) for breed in
                    breeds_characteristics.keys()}
     remainder = total_samples - sum(num_samples.values())
