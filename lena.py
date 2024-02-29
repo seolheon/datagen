@@ -54,9 +54,6 @@ plt.title('Training and Validation Accuracy')
 plt.legend()
 plt.show()
 
-# Предсказания модели для тестовых данных
-y_pred = model.predict(X_test)
-
 data_new = pd.read_csv("test_dataset.csv")
 X_new = data_new.drop(columns=['Breed','Name']).values
 
