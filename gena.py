@@ -52,7 +52,7 @@ def generate_dataset():
                        "vocalization": (3, 5), "adaptability": (8, 10)}
     }
 
-    total_samples = 1000
+    total_samples = 10000
     num_breeds = len(breeds_characteristics)
     num_samples_per_breed = total_samples // num_breeds
 
