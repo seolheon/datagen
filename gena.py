@@ -52,20 +52,16 @@ def generate_dataset():
                        "vocalization": (3, 5), "adaptability": (8, 10)}
     }
 
-    total_samples = 10
-    num_samples = {breed: random.randint(1, total_samples // len(breeds_characteristics)) for breed in
-                   breeds_characteristics.keys()}
-    remainder = total_samples - sum(num_samples.values())
-
-    breed_to_add_to = list(num_samples.keys())[0]
-    num_samples[breed_to_add_to] += remainder
+    total_samples = 1000
+    num_breeds = len(breeds_characteristics)
+    num_samples_per_breed = total_samples // num_breeds
 
     df = pd.DataFrame(columns=["Name", "Breed", "Weight", "Height", "Life Expectancy",
                                "Coat Length", "Grooming Needs", "Energy Level",
                                "Intelligence Level", "Playfulness", "Vocalization", "Adaptability"])
 
     for breed, characteristics in breeds_characteristics.items():
-        for _ in range(num_samples[breed]):
+        for _ in range(num_samples_per_breed):
             name = random.choice(cat_names)
             weight = round(random.uniform(*characteristics["weight"]), 1)
             height = random.randint(*characteristics["height"])

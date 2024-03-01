@@ -1,0 +1,1001 @@
+Name,Breed,Weight,Height,Life Expectancy,Coat Length,Grooming Needs,Energy Level,Intelligence Level,Playfulness,Vocalization,Adaptability
+Snowflake,British Shorthair,4.1,29,14,1,1,4,6,3,4,6
+Kioko,Scottish Fold,5.6,24,15,3,2,5,8,7,5,8
+Squirrel,Ragdoll,6.1,27,17,3,2,5,5,4,2,6
+Kipling,Abyssinian,3.0,24,14,1,0,8,6,7,7,10
+Victor,Khao Manee,5.0,25,15,1,1,6,8,9,5,10
+Umeko,Ragdoll,8.6,28,14,3,2,3,5,5,4,7
+Asa,British Shorthair,5.1,29,13,1,1,6,5,3,4,8
+Bunny,Scottish Fold,5.4,20,13,3,2,4,8,6,5,7
+Amiga,Sphynx,4.7,26,13,0,0,7,7,7,8,8
+Nibbles,Munchkin,2.3,18,13,1,1,7,8,9,4,7
+Nori,Sphynx,4.1,24,12,0,0,8,7,6,9,8
+Catnip,Scottish Fold,3.1,20,13,3,2,5,7,6,5,9
+Moses,Sphynx,3.8,21,13,0,0,7,6,7,8,8
+Jimbo,Siamese,5.1,20,12,1,1,8,6,10,8,9
+Butterball,Khao Manee,5.0,26,16,1,1,8,6,8,4,9
+Snowflake,Persian,3.6,29,15,3,3,5,6,4,3,6
+Fonz,Bengal,6.9,32,12,1,1,9,6,9,6,7
+Bubbles,Bengal,6.7,27,13,2,1,9,7,10,7,7
+Jellybean,Ragdoll,5.5,31,15,3,2,4,6,5,4,8
+Isamu,Scottish Fold,4.5,22,15,2,2,6,7,6,3,9
+Archimedes,Khao Manee,3.9,20,15,1,1,8,7,9,5,8
+Truffles,Scottish Fold,5.4,24,15,2,2,6,8,6,5,7
+Nesca,British Shorthair,5.0,27,16,2,1,5,7,5,2,7
+Electra,Sphynx,4.5,26,14,0,0,7,7,7,8,8
+Sushi,Scottish Fold,3.6,21,14,3,2,6,8,5,5,9
+Checkers,Persian,5.9,31,14,3,3,4,6,3,4,6
+Zipper,Bengal,6.2,33,14,2,1,9,6,10,6,9
+Twinkles,Munchkin,2.5,19,13,1,1,6,8,8,6,8
+Sorrell,British Shorthair,4.2,27,12,1,1,5,7,3,3,6
+Taiki,Sphynx,3.7,26,12,0,0,6,7,5,8,9
+Shin,Siamese,5.0,24,14,1,1,8,6,9,10,9
+Athena,British Shorthair,5.6,25,13,1,1,6,6,5,3,8
+Jasmine,Sphynx,3.4,23,12,0,0,6,5,5,9,9
+Morocco,Siamese,5.5,21,13,1,1,9,7,8,8,9
+Amigo,Sphynx,3.7,27,12,0,0,8,6,5,8,7
+Koto,British Shorthair,5.5,30,14,2,1,5,6,4,4,6
+Masuru,Bengal,7.7,25,16,2,1,9,7,9,7,7
+Boo,Persian,6.7,32,11,3,3,5,6,3,2,4
+Karma,Sphynx,3.6,21,13,0,0,7,7,6,9,9
+Violet,Sphynx,3.8,23,12,0,0,6,5,6,8,9
+Judo,Sphynx,3.7,27,12,0,0,7,5,6,7,7
+Tabby,British Shorthair,5.5,25,13,2,1,6,7,3,2,8
+Kyoko,Ragdoll,4.3,27,17,3,2,4,7,4,2,7
+Milkshake,Scottish Fold,4.7,23,15,3,2,5,8,5,5,7
+Electra,Abyssinian,4.9,24,11,2,0,9,6,8,7,8
+Wicca,Persian,6.2,28,13,3,3,5,5,3,2,6
+Gemini,Khao Manee,4.6,26,14,1,1,6,8,8,3,10
+Akira,Munchkin,3.2,17,13,1,1,7,6,9,5,7
+Gemini,British Shorthair,6.8,29,16,1,1,5,6,5,4,6
+Blacky,Abyssinian,4.7,26,14,2,0,7,7,8,5,8
+Opal,Khao Manee,3.1,20,16,2,1,8,7,7,5,9
+Hazel,Siamese,5.7,23,15,1,1,8,6,9,9,10
+Mai,Scottish Fold,5.3,24,15,2,2,4,6,6,5,7
+Snugums,Siamese,4.1,23,12,2,1,8,8,10,10,10
+Kameko,Munchkin,3.3,19,13,1,1,7,8,7,5,8
+Nesca,Bengal,6.5,27,13,1,1,8,7,9,7,9
+Flipper,Munchkin,3.8,16,12,2,1,7,8,7,5,7
+Hazel,Scottish Fold,3.3,26,14,3,2,6,7,6,3,9
+Opal,Abyssinian,3.8,24,13,2,0,7,7,8,7,8
+French,Munchkin,2.3,21,14,1,1,6,6,8,5,8
+Napoleon,British Shorthair,6.0,26,14,1,1,4,5,5,3,7
+Adorable,Abyssinian,3.5,20,13,1,0,8,7,7,6,8
+Sake,British Shorthair,6.2,26,17,1,1,6,6,5,4,7
+Peaches,Scottish Fold,4.0,23,14,3,2,4,8,7,4,8
+Purrfect,Khao Manee,3.1,25,16,2,1,8,7,7,5,8
+Akira,Khao Manee,3.5,24,15,2,1,7,6,7,4,10
+Nariko,Persian,4.1,28,14,3,3,5,6,4,3,4
+Ninja,Abyssinian,4.9,25,10,2,0,8,8,9,5,8
+Fifi,Sphynx,3.2,21,13,0,0,8,6,6,7,7
+Mocha,Abyssinian,3.5,26,12,1,0,7,8,7,6,10
+Wizard,Abyssinian,4.8,20,13,1,0,9,6,9,6,10
+Marshmallow,Siamese,3.5,26,15,2,1,8,7,10,9,10
+Ginkgo,Sphynx,3.2,26,12,0,0,7,7,5,8,7
+Rainbow,Ragdoll,5.3,25,12,3,2,4,7,5,2,6
+Cute,Scottish Fold,4.8,22,12,2,2,6,6,6,3,7
+Blossom,Siamese,6.0,25,12,1,1,7,7,10,10,10
+Ninja,Munchkin,3.7,15,12,2,1,5,8,7,4,8
+Goldilocks,Sphynx,4.6,20,13,0,0,8,5,6,8,7
+Shiro,Persian,5.7,25,15,3,3,3,6,5,4,6
+Kioshi,Siamese,4.9,23,15,2,1,7,7,10,8,8
+Kaddish,Persian,6.0,25,12,3,3,4,6,4,3,5
+Mitsuo,Munchkin,2.9,19,12,1,1,6,7,8,5,8
+Isao,Sphynx,4.4,26,12,0,0,7,6,6,9,8
+Celestia,Abyssinian,4.8,23,14,2,0,7,8,7,7,8
+Bodhi,Abyssinian,4.6,24,14,1,0,8,8,7,7,8
+Shin,Abyssinian,3.5,21,11,1,0,9,8,7,6,8
+Siddhartha,Khao Manee,3.9,25,15,2,1,7,7,8,4,8
+Christmas,Persian,6.5,30,12,3,3,3,6,3,2,5
+Zohra,British Shorthair,6.7,28,16,1,1,5,6,5,4,8
+Adorable,Khao Manee,3.5,22,12,1,1,7,7,7,3,8
+Gum Drop,Khao Manee,4.8,25,15,1,1,8,7,9,3,8
+Taiki,Ragdoll,7.1,29,17,3,2,3,5,4,4,7
+Blackberry,Siamese,3.6,25,15,1,1,8,8,10,9,8
+Tortie,Sphynx,3.9,23,12,0,0,8,6,7,8,7
+Taiki,Siamese,4.1,24,15,2,1,8,7,8,9,9
+Gorgeous,Scottish Fold,5.3,24,12,3,2,5,7,5,4,7
+Cutie Pie,Bengal,4.1,29,15,2,1,10,8,9,8,7
+Squanto,Siamese,4.4,24,12,1,1,8,8,8,10,8
+Jun,Ragdoll,6.5,31,12,3,2,4,7,4,3,7
+Nala,Abyssinian,4.2,21,15,2,0,8,8,8,7,9
+Goosebump,Abyssinian,4.4,20,11,1,0,7,6,7,5,9
+Oki,Persian,6.6,26,14,3,3,4,6,4,3,6
+Ramses,Ragdoll,6.5,32,14,3,2,3,7,6,4,8
+Isamu,Sphynx,3.5,20,14,0,0,6,5,6,7,7
+Pharaoh,Munchkin,3.1,15,14,2,1,6,7,9,5,8
+Calypso,Ragdoll,8.5,29,16,3,2,5,7,6,4,6
+Adorable,Munchkin,3.4,19,14,2,1,6,8,9,5,8
+Whiskers,Persian,4.6,30,11,3,3,4,5,4,2,4
+Hippie,Ragdoll,5.5,29,15,3,2,3,5,6,3,8
+Ryoko,Khao Manee,4.4,23,16,2,1,6,7,7,3,9
+Hendrix,Sphynx,4.7,21,12,0,0,6,7,5,8,9
+Aragorn,British Shorthair,5.7,29,15,2,1,6,7,5,4,6
+Kioko,Sphynx,3.8,20,12,0,0,6,5,6,7,9
+Kitkat,Persian,6.8,28,10,3,3,5,5,5,3,5
+Fluffikins,Siamese,4.5,24,14,1,1,8,6,10,10,8
+Harmonica,Scottish Fold,4.1,24,15,3,2,5,6,6,5,9
+Pixie,Abyssinian,3.8,25,15,2,0,8,8,9,6,8
+Rishi,Ragdoll,5.4,27,16,3,2,3,6,5,2,7
+Sapphire,Sphynx,3.8,27,13,0,0,8,7,5,7,7
+Koko,Bengal,6.1,32,15,2,1,10,6,9,8,7
+Muggles,Ragdoll,8.6,30,13,3,2,4,7,4,4,6
+More,Munchkin,2.2,16,14,2,1,6,6,8,6,8
+Cricket,Scottish Fold,3.9,21,14,3,2,5,7,7,4,8
+Marigold,Ragdoll,6.5,30,16,3,2,5,5,5,3,7
+Hazel,Munchkin,3.4,19,13,2,1,6,7,7,5,9
+Zion,Munchkin,2.9,18,12,1,1,7,8,9,4,9
+Aloha,Khao Manee,3.1,26,16,1,1,8,8,8,4,10
+Honeybee,Scottish Fold,3.3,24,12,2,2,6,8,6,4,9
+Kioshi,British Shorthair,5.0,29,16,1,1,6,6,4,3,8
+Bluebell,Persian,4.3,26,11,3,3,5,5,3,3,6
+Taffy,Siamese,5.2,23,12,1,1,9,8,10,8,9
+Yoshi,Scottish Fold,4.1,21,13,2,2,5,8,6,4,7
+Tiara,Persian,6.4,26,13,3,3,4,6,5,2,4
+Cosmo,Khao Manee,3.5,26,14,1,1,6,7,8,5,10
+Bambi,Bengal,5.1,29,15,2,1,10,6,10,8,8
+Ivy,Abyssinian,3.8,22,12,1,0,9,7,9,5,10
+Bubbles,Persian,4.7,26,15,3,3,4,5,3,4,5
+Hippie,Siamese,4.2,20,13,2,1,7,6,8,9,9
+Phoenix,Sphynx,3.8,24,12,0,0,8,6,5,8,9
+Jiggles,Sphynx,4.1,27,14,0,0,6,5,7,7,9
+Mitsuo,Scottish Fold,3.4,24,15,2,2,5,8,6,4,7
+Enerla,Ragdoll,6.9,26,15,3,2,5,6,5,4,6
+Butterfly,Siamese,5.6,25,15,1,1,9,6,9,9,9
+Patches,Bengal,6.5,32,12,2,1,9,6,9,6,8
+Pickles,Bengal,4.9,27,16,2,1,10,7,9,6,7
+Katsumi,Persian,3.3,32,12,3,3,5,6,5,3,6
+Diva,British Shorthair,4.2,26,15,2,1,6,5,4,2,8
+Dejavu,Sphynx,4.8,20,14,0,0,8,5,6,7,7
+Cloudy,Khao Manee,4.4,26,16,2,1,7,7,7,5,8
+Hiromi,Abyssinian,4.8,22,11,2,0,9,7,7,5,9
+Typhoon,Munchkin,2.8,16,14,1,1,7,7,9,6,9
+Wiggles,Persian,3.7,32,10,3,3,3,5,3,4,4
+Rainbow,Scottish Fold,4.5,25,15,2,2,6,8,6,5,9
+Pawsie,Siamese,5.5,23,14,2,1,9,6,8,9,8
+Yoshi,Bengal,5.4,28,16,2,1,8,7,10,6,9
+Lambchop,Munchkin,2.0,15,14,2,1,5,8,7,4,9
+Zohra,British Shorthair,6.0,27,15,2,1,4,5,3,4,7
+Sumo,Abyssinian,3.2,24,14,2,0,8,7,9,5,10
+Ken,Persian,5.0,29,11,3,3,4,6,4,2,4
+Isao,Abyssinian,4.4,22,11,1,0,7,8,8,7,10
+Amaya,Abyssinian,4.8,21,13,2,0,7,7,7,7,8
+Muppet,Scottish Fold,5.3,26,13,2,2,6,8,5,5,9
+Gala,Siamese,4.0,20,15,2,1,8,7,9,9,10
+Umeko,Persian,3.7,28,10,3,3,5,6,3,3,5
+Pickles,Khao Manee,3.7,21,12,1,1,8,8,7,4,8
+Akihiko,Munchkin,3.1,17,14,1,1,5,6,9,4,7
+Hisashi,Persian,5.5,25,11,3,3,3,5,3,3,6
+Nami,Persian,4.6,27,13,3,3,3,5,5,3,6
+Kohana,British Shorthair,5.3,27,16,1,1,4,5,5,2,8
+Snowball,Khao Manee,3.8,25,16,2,1,6,6,9,3,8
+Violet,Persian,4.0,29,11,3,3,3,5,3,4,6
+Jett,Scottish Fold,5.1,23,12,3,2,5,7,5,3,9
+Yoshi,Khao Manee,4.6,24,12,2,1,8,8,9,3,8
+Masaki,Siamese,3.3,25,14,1,1,7,6,8,10,8
+Tiara,British Shorthair,4.0,27,13,2,1,6,7,3,4,8
+Oki,Bengal,6.1,26,14,2,1,8,7,9,7,8
+Panda,Khao Manee,3.7,23,16,2,1,6,6,7,3,10
+Sushi,British Shorthair,6.4,25,15,2,1,4,7,5,4,7
+Bootsy,British Shorthair,5.9,30,16,1,1,6,5,5,2,6
+Yuki,British Shorthair,5.1,28,17,1,1,6,6,5,2,7
+Sax,Bengal,6.4,28,12,1,1,9,6,9,6,8
+Buggles,Persian,3.5,25,10,3,3,5,4,3,2,6
+Queen,Khao Manee,4.4,21,12,1,1,8,7,9,4,9
+Lakshmi,Munchkin,2.3,16,13,1,1,7,6,8,4,9
+Ichiro,Khao Manee,4.7,23,14,2,1,7,8,7,5,10
+Cookie,Abyssinian,5.0,21,14,2,0,7,7,8,5,8
+Yamaha,Siamese,4.7,23,12,2,1,7,8,10,9,8
+Akihiro,Ragdoll,6.0,27,16,3,2,5,5,4,2,6
+Jujube,British Shorthair,4.8,30,13,1,1,6,7,5,3,8
+Escrow,Sphynx,3.6,22,12,0,0,8,6,7,9,7
+Fluffikins,Persian,5.6,32,12,3,3,3,4,3,4,4
+Hazel,Abyssinian,3.2,20,11,2,0,7,7,8,6,8
+Zippy,Siamese,4.1,25,12,2,1,8,6,8,9,10
+Noriko,Ragdoll,6.2,31,13,3,2,3,6,6,2,8
+Sweet Pea,Ragdoll,4.3,27,12,3,2,3,5,5,3,7
+Nutmeg,Persian,7.0,32,11,3,3,4,5,3,4,5
+Cho,Khao Manee,5.0,20,12,1,1,8,7,9,4,8
+Nariko,Bengal,6.0,31,14,1,1,10,8,10,7,9
+Vega,Khao Manee,3.6,25,15,1,1,8,7,7,5,9
+Napoleon,Bengal,5.2,29,12,1,1,10,7,10,7,8
+Pixie,Bengal,5.3,25,13,2,1,8,8,10,7,8
+Wicca,British Shorthair,6.1,30,16,1,1,6,6,4,2,6
+Pyramid,Munchkin,2.8,17,14,1,1,5,7,9,5,8
+Baby Bear,Abyssinian,4.8,25,11,1,0,9,6,8,6,10
+Keiko,Scottish Fold,3.6,26,12,2,2,4,7,5,3,8
+Snuggles,Bengal,6.4,26,16,1,1,8,6,10,8,8
+Maru,Persian,6.4,25,12,3,3,5,5,5,3,6
+Nobu,Sphynx,4.2,23,14,0,0,7,7,5,9,9
+Zena,Munchkin,2.1,19,13,1,1,6,7,8,6,8
+Picasso,Bengal,7.7,25,16,1,1,10,6,9,6,8
+Masuru,Persian,7.0,27,14,3,3,3,5,5,2,4
+Jellybean,Munchkin,3.3,18,13,2,1,7,8,7,4,7
+Oki,Abyssinian,3.4,22,14,2,0,9,8,8,7,10
+Kameko,Bengal,4.1,33,16,1,1,8,8,10,7,8
+Maru,Abyssinian,3.7,23,12,2,0,8,6,8,6,10
+Taiki,Siamese,3.0,23,13,2,1,9,6,10,10,8
+Apple,Persian,3.2,26,10,3,3,5,6,5,4,5
+Pele,Scottish Fold,4.7,25,12,2,2,4,8,6,4,8
+Ping Pong,Bengal,4.4,27,14,2,1,9,6,9,6,8
+Naoko,Abyssinian,3.3,25,11,1,0,9,7,9,6,9
+Lucky,Persian,4.9,25,10,3,3,3,5,3,3,5
+Aimi,Sphynx,3.1,23,12,0,0,7,6,5,7,9
+Iggy,Munchkin,3.8,16,13,1,1,6,8,8,4,9
+Muffin,Siamese,4.3,22,15,2,1,8,6,10,10,9
+Doraemon,Persian,4.8,25,15,3,3,3,4,4,2,4
+Fuku,Khao Manee,3.3,22,12,2,1,6,7,7,4,8
+Marigold,Munchkin,2.6,15,13,1,1,6,7,9,5,8
+Godfather,Khao Manee,3.9,26,16,2,1,7,6,7,3,8
+Tiara,Khao Manee,4.0,23,12,2,1,7,7,7,3,9
+Hemingway,Scottish Fold,5.8,21,15,2,2,5,8,7,5,8
+Daisy Love,Ragdoll,8.1,29,14,3,2,4,6,5,3,7
+Hopper,Khao Manee,3.4,21,15,1,1,8,7,7,3,9
+Wizard,Persian,6.8,31,12,3,3,5,4,3,4,5
+Blueberry,Abyssinian,3.4,20,15,1,0,9,8,9,5,9
+Orion,Khao Manee,4.6,22,14,2,1,7,8,9,4,8
+Moonbeam,Abyssinian,3.8,21,15,2,0,8,7,8,7,9
+Queenie,Persian,4.3,25,12,3,3,3,6,5,2,6
+Whitman,Siamese,5.1,22,14,2,1,7,6,8,10,8
+Cute,Scottish Fold,4.3,23,12,2,2,5,6,7,4,9
+Buddha,British Shorthair,6.9,30,14,1,1,5,6,4,4,7
+Boo,Munchkin,3.0,16,12,1,1,6,6,7,5,7
+Muppet,Khao Manee,3.6,20,14,2,1,6,6,8,3,10
+Checkers,Scottish Fold,3.9,24,13,2,2,4,7,6,4,7
+Kei,Khao Manee,3.0,20,14,1,1,8,7,7,4,10
+Apple,Khao Manee,3.8,24,16,2,1,8,6,9,3,10
+Sora,British Shorthair,4.7,29,12,2,1,4,5,3,3,6
+Icicles,Sphynx,4.8,22,14,0,0,6,5,7,7,7
+Bluebell,Sphynx,4.1,27,13,0,0,6,5,5,7,7
+Lambchop,Persian,4.8,26,15,3,3,3,6,5,4,5
+Asami,Munchkin,2.7,18,13,1,1,7,7,8,4,9
+Yukio,Abyssinian,3.4,26,12,2,0,8,7,7,7,10
+Rishi,Bengal,4.4,29,15,1,1,8,8,10,8,7
+Amore,Khao Manee,3.6,26,14,2,1,7,8,8,3,9
+Zipper,Persian,6.0,25,10,3,3,5,4,5,2,4
+Cute,Bengal,4.7,35,16,2,1,10,6,10,6,8
+Amadeus,Abyssinian,3.7,26,13,1,0,9,6,7,6,10
+Geisha,Scottish Fold,4.0,24,14,2,2,4,8,7,4,7
+Cute,Ragdoll,8.9,29,15,3,2,3,7,5,3,6
+Biscuit,Ragdoll,4.2,25,16,3,2,4,7,6,2,6
+Violet,Abyssinian,3.5,24,11,2,0,7,7,8,5,10
+Purrfect,Sphynx,4.5,27,14,0,0,6,6,5,9,7
+Lynx,Sphynx,4.6,23,13,0,0,7,6,5,9,7
+Daisy,Abyssinian,3.4,20,11,1,0,7,6,8,7,8
+Haiku,Ragdoll,6.3,29,15,3,2,5,7,6,4,8
+Cute,Ragdoll,6.3,28,15,3,2,3,7,6,3,8
+Masuru,Abyssinian,3.8,26,14,2,0,8,6,7,5,10
+YinYang,Khao Manee,3.8,20,14,2,1,7,6,7,4,8
+Bodhi,Scottish Fold,3.5,20,12,3,2,6,8,6,4,9
+Akihiko,Munchkin,2.9,17,12,1,1,7,7,8,6,8
+Gemini,Khao Manee,4.1,24,16,2,1,7,7,8,3,8
+Galileo,Sphynx,4.4,26,14,0,0,6,7,5,7,9
+Blueberry,Bengal,4.0,34,12,2,1,8,6,10,6,9
+Goldilocks,Khao Manee,3.9,25,14,2,1,6,7,8,4,9
+Munchkin,Ragdoll,8.6,28,12,3,2,5,5,4,4,6
+Maeko,Khao Manee,3.2,20,16,1,1,7,8,7,4,9
+Enerla,Ragdoll,5.8,31,16,3,2,4,7,4,2,6
+Kioshi,Munchkin,2.9,16,13,1,1,5,6,8,5,9
+Aragorn,British Shorthair,4.7,30,15,1,1,5,6,5,4,8
+Zipper,Bengal,5.8,35,12,2,1,9,6,9,8,9
+Sweetness,Khao Manee,4.7,26,13,1,1,7,6,8,5,9
+Kioko,British Shorthair,6.4,25,13,1,1,6,7,5,2,7
+Cupcake,Siamese,3.5,24,14,1,1,8,7,9,8,10
+Nietzsche,Siamese,3.2,24,12,2,1,7,8,9,9,8
+Apple,Sphynx,3.4,20,14,0,0,8,5,7,9,9
+Hendrix,Abyssinian,3.5,20,11,1,0,8,6,9,5,8
+Violet,Bengal,5.5,34,16,1,1,8,8,9,8,8
+Matsui,Persian,5.3,31,14,3,3,4,4,3,3,5
+Quinella,British Shorthair,5.9,30,16,1,1,6,5,4,2,8
+Cinnamon,Sphynx,3.8,20,13,0,0,7,5,5,7,7
+Squiggle,Abyssinian,4.8,26,11,1,0,9,6,7,7,9
+Mitsuo,Siamese,6.0,24,14,1,1,7,7,10,9,10
+Winky,Sphynx,4.4,27,14,0,0,7,5,6,9,9
+Yoshie,Khao Manee,4.5,26,15,2,1,8,6,8,5,9
+Esperanto,Ragdoll,5.4,25,17,3,2,5,7,6,3,6
+Cho,Sphynx,4.8,24,12,0,0,6,7,7,9,9
+Nobu,Siamese,5.8,25,13,2,1,7,6,8,10,8
+Hazel,Munchkin,2.8,19,13,2,1,7,6,9,4,7
+Purrfect,Ragdoll,8.3,31,13,3,2,3,6,6,3,7
+Natsu,Siamese,4.8,20,12,1,1,9,8,10,10,9
+Schmoopy,Sphynx,4.0,26,14,0,0,7,5,6,8,7
+Electro,Sphynx,4.5,23,14,0,0,6,6,6,7,7
+Christmas,Bengal,4.2,32,15,2,1,8,8,9,7,9
+Arwa,Siamese,3.7,21,15,2,1,7,8,9,9,8
+Giggles,Scottish Fold,4.4,20,12,3,2,4,7,6,3,8
+Hunny Bunny,Abyssinian,4.5,26,14,2,0,7,8,7,6,8
+Yuki,Siamese,4.3,23,13,2,1,8,7,10,10,8
+Euripides,Abyssinian,3.7,26,15,1,0,9,7,9,6,8
+Jazzy,Khao Manee,3.8,22,12,2,1,7,6,8,4,8
+Yoshi,British Shorthair,5.8,28,15,1,1,6,5,4,3,8
+Kiwi,Ragdoll,7.3,26,17,3,2,3,6,6,4,6
+Slinky,Abyssinian,3.9,22,12,2,0,9,8,7,5,8
+Eri,Siamese,4.2,26,13,2,1,9,7,10,10,9
+Arwa,British Shorthair,5.1,27,13,2,1,4,6,4,4,8
+Vanilla,Persian,5.7,30,12,3,3,4,6,3,3,6
+Kimi,Bengal,4.3,27,16,2,1,10,8,10,8,9
+Qwerty,Abyssinian,3.3,24,12,1,0,8,8,8,5,9
+Nori,British Shorthair,4.8,25,15,1,1,4,7,3,2,8
+Cosmo,Persian,5.0,28,14,3,3,5,6,5,2,6
+Sax,British Shorthair,5.9,25,13,1,1,6,6,4,4,6
+Teacup,Scottish Fold,4.2,22,15,3,2,6,7,6,3,8
+Nala,Ragdoll,8.2,25,13,3,2,3,6,6,3,6
+Ginger,Ragdoll,8.2,29,17,3,2,3,7,6,4,6
+Yuki,Siamese,3.1,21,15,2,1,7,8,10,9,9
+Twinkles,Siamese,5.3,21,13,2,1,8,6,10,8,10
+Karma,Siamese,4.5,20,12,2,1,7,6,8,8,10
+Diamond,Munchkin,3.0,17,13,1,1,6,7,8,5,7
+Hisoka,Ragdoll,4.6,32,14,3,2,3,6,4,4,8
+Kohana,Scottish Fold,4.2,20,14,2,2,4,7,6,3,8
+Romeo,Scottish Fold,3.6,24,12,2,2,4,6,6,4,7
+Eliazar,Ragdoll,7.7,32,15,3,2,4,5,4,2,6
+Kioko,Sphynx,3.7,20,13,0,0,6,7,5,7,8
+Napoleon,Sphynx,5.0,25,13,0,0,6,6,6,7,7
+Yukio,Sphynx,4.1,26,12,0,0,7,6,6,7,8
+Poppy,Ragdoll,8.8,28,15,3,2,4,6,6,3,8
+Katsuro,Siamese,5.7,24,13,2,1,8,8,8,10,9
+Love Bug,Persian,6.1,31,10,3,3,3,6,3,3,4
+Kameko,Abyssinian,4.1,26,11,2,0,9,6,7,7,9
+Hazel,Munchkin,3.2,20,14,1,1,5,8,7,6,9
+Donatello,Munchkin,3.5,19,13,1,1,7,8,9,6,7
+Cotton Candy,Khao Manee,4.0,24,13,1,1,6,6,7,4,10
+Mookie,Sphynx,3.9,23,12,0,0,7,6,5,7,9
+Ginkgo,Scottish Fold,5.3,22,14,3,2,5,7,5,5,7
+Sweet Pea,Persian,6.7,28,15,3,3,5,5,3,2,6
+Hannibal,Abyssinian,3.4,22,11,1,0,7,6,9,6,10
+Daisy Love,British Shorthair,7.0,25,16,2,1,4,7,3,3,7
+Bambi,Khao Manee,3.1,22,14,1,1,8,8,9,5,8
+Adorable,Scottish Fold,5.7,25,14,2,2,6,8,7,4,8
+Sake,Abyssinian,3.6,24,11,1,0,9,6,7,6,10
+Umeko,Scottish Fold,4.2,21,14,3,2,5,6,7,3,9
+Mitsuo,Siamese,5.8,21,14,1,1,8,7,8,8,10
+Bluebell,Siamese,4.6,25,15,2,1,8,8,8,10,8
+Quest,Ragdoll,8.5,27,16,3,2,4,7,4,2,6
+Kyoko,Persian,5.4,31,12,3,3,5,6,5,4,4
+Ruby,Bengal,7.9,25,16,1,1,9,6,9,8,7
+Bootsy,Abyssinian,3.3,20,15,2,0,9,6,7,5,10
+Lancelot,Ragdoll,4.6,28,17,3,2,4,6,4,4,8
+Sho,Bengal,5.2,26,15,1,1,9,8,9,6,9
+Vanilla,Siamese,4.1,22,12,1,1,9,8,9,10,9
+Tempo,Sphynx,4.7,20,12,0,0,7,7,5,9,9
+Daffodil,Sphynx,4.9,25,12,0,0,6,6,5,9,8
+Lagos,Scottish Fold,3.4,22,14,3,2,6,6,7,3,9
+Tipsy,Ragdoll,7.5,30,15,3,2,3,7,5,4,8
+Noriko,Bengal,5.6,34,15,1,1,9,6,10,6,9
+Angel,Bengal,6.9,34,12,1,1,10,6,9,7,9
+Balzac,Siamese,4.8,21,12,1,1,7,6,8,8,10
+Isao,Bengal,7.0,34,15,2,1,10,6,10,6,8
+Kuro,Scottish Fold,3.1,25,14,3,2,5,6,7,4,9
+Godiva,Scottish Fold,3.1,24,12,3,2,6,7,7,5,9
+Amaya,Khao Manee,3.5,26,15,2,1,8,7,7,3,8
+Naoko,Scottish Fold,3.4,22,13,3,2,5,8,6,4,8
+Hiroki,Sphynx,4.3,23,14,0,0,6,6,5,9,7
+Daisy,Scottish Fold,4.1,22,13,2,2,4,8,5,3,7
+Fonzie,Khao Manee,3.2,22,14,2,1,6,8,8,4,10
+Sparkles,Bengal,7.1,29,16,1,1,8,6,9,6,7
+Tamako,Ragdoll,4.9,31,16,3,2,4,6,5,2,6
+Bumble,Bengal,5.8,29,16,2,1,9,6,9,7,9
+Mirage,Bengal,5.2,28,13,1,1,10,6,9,6,7
+Tuggles,Khao Manee,3.4,20,16,2,1,7,8,8,4,10
+Dai,Scottish Fold,5.5,23,14,3,2,6,8,5,5,8
+Snowflake,British Shorthair,6.7,29,12,1,1,6,6,3,2,6
+Amigo,Siamese,3.8,20,13,2,1,8,7,10,8,9
+Bootsy,Ragdoll,7.1,32,15,3,2,3,6,4,3,6
+Slinky,Munchkin,2.8,15,12,1,1,5,6,9,4,9
+Olympia,Ragdoll,7.9,29,14,3,2,5,5,5,3,6
+Bubble,Sphynx,4.2,26,12,0,0,8,5,5,9,7
+Logo,Khao Manee,4.1,24,16,1,1,6,6,9,3,10
+Bodhi,British Shorthair,6.3,29,14,2,1,4,6,5,4,6
+Cookie,Khao Manee,4.4,26,12,1,1,8,7,8,3,8
+Bubbles,Khao Manee,3.1,20,15,2,1,7,6,7,5,9
+Queenie,British Shorthair,4.2,26,14,1,1,6,6,5,4,7
+Fuzzie,Siamese,3.3,25,13,2,1,9,8,8,9,8
+Fonz,Khao Manee,3.3,20,12,2,1,6,8,9,4,8
+Aimi,Munchkin,3.6,20,14,2,1,6,6,8,6,9
+Feline,Munchkin,2.5,15,14,2,1,7,7,7,6,7
+Demi,British Shorthair,6.1,25,16,1,1,4,5,3,4,7
+Wizard,Abyssinian,3.4,22,10,2,0,8,7,7,6,10
+Minoru,Munchkin,3.5,18,14,1,1,7,7,8,4,8
+Haru,Persian,5.6,30,11,3,3,3,5,3,2,4
+Kimi,Scottish Fold,4.0,24,14,3,2,4,8,5,5,9
+Yamaha,Khao Manee,4.5,26,13,1,1,8,7,8,5,8
+Puddin,Abyssinian,4.0,25,14,2,0,8,6,9,5,8
+Tempo,Ragdoll,5.4,25,16,3,2,3,7,6,2,8
+Jellybean,British Shorthair,6.3,30,14,2,1,5,5,4,2,6
+Muppet,Munchkin,3.1,17,12,1,1,7,6,9,6,9
+Moses,Scottish Fold,5.6,20,14,3,2,4,8,7,5,8
+Keiji,Munchkin,3.3,16,12,2,1,5,6,8,6,9
+Goldie,Abyssinian,4.4,25,15,1,0,8,7,7,5,8
+Sumo,Siamese,4.4,20,14,2,1,7,8,10,10,9
+Domo,Sphynx,4.7,27,12,0,0,7,5,5,7,7
+Nibbles,Abyssinian,4.7,23,15,1,0,9,7,7,6,10
+Cassava,Siamese,5.1,23,14,2,1,8,7,9,10,9
+Nibbles,Bengal,7.2,35,16,1,1,10,7,9,7,7
+Noriko,Abyssinian,3.8,24,15,2,0,9,7,9,5,9
+Amigo,Ragdoll,5.4,25,14,3,2,4,7,4,3,6
+Calypso,Ragdoll,7.5,28,13,3,2,4,5,4,3,7
+Booboo Beans,Khao Manee,4.1,20,13,2,1,8,7,7,3,8
+Zipper,British Shorthair,5.7,25,15,1,1,6,7,3,3,8
+Muffin,British Shorthair,5.0,30,13,1,1,6,6,5,2,7
+Queen,Munchkin,3.0,21,12,2,1,6,8,7,6,8
+Norio,British Shorthair,4.5,26,12,2,1,6,6,4,4,6
+Eri,Scottish Fold,4.8,25,14,2,2,4,6,5,5,9
+Saki,Sphynx,4.4,21,13,0,0,6,6,7,7,8
+Snowflake,Scottish Fold,3.5,23,12,3,2,6,8,6,3,9
+Osprey,Munchkin,3.6,21,14,1,1,7,7,9,5,8
+Kitty,Bengal,5.0,28,14,1,1,9,8,9,6,7
+Ziggy,Siamese,3.5,22,13,1,1,8,6,8,9,8
+Esperanto,British Shorthair,6.5,27,14,2,1,5,6,5,3,8
+Trixie,Sphynx,4.9,21,13,0,0,6,5,7,8,7
+Mai,Persian,6.5,31,14,3,3,3,5,3,3,5
+Avalon,Sphynx,3.7,24,14,0,0,6,7,5,8,7
+Goofy,Munchkin,2.3,17,13,1,1,6,7,7,6,9
+Fuku,Ragdoll,8.4,28,16,3,2,3,6,5,3,6
+Squirrel,British Shorthair,6.3,28,14,2,1,4,6,5,3,8
+Euclid,Siamese,5.5,22,14,1,1,8,6,9,10,8
+Akihiko,Khao Manee,4.5,24,12,2,1,7,8,8,4,8
+Tortie,Siamese,6.0,22,13,1,1,8,8,10,9,8
+Zippy,Persian,6.7,27,13,3,3,5,5,3,4,6
+Hideo,Scottish Fold,5.5,23,13,2,2,6,8,6,5,9
+Catnip,Ragdoll,7.9,31,12,3,2,5,7,6,3,8
+Lollipop,Bengal,7.8,32,13,1,1,10,6,10,7,9
+Empress,Siamese,5.8,24,12,1,1,7,8,8,9,8
+Kioko,Persian,3.7,30,10,3,3,4,4,4,3,6
+Princess,British Shorthair,5.2,28,17,1,1,6,5,5,4,6
+Pickles,Khao Manee,4.6,22,15,1,1,8,7,8,4,8
+Jasmine,Abyssinian,4.0,22,15,1,0,9,7,7,5,9
+Augustus,Scottish Fold,3.6,21,12,2,2,6,8,7,4,7
+Teacup,Sphynx,4.2,26,13,0,0,7,6,7,7,7
+Chiffon,Munchkin,2.0,19,13,2,1,5,7,7,5,7
+Sakura,Sphynx,4.8,20,13,0,0,8,6,6,7,8
+Hazel,Ragdoll,7.9,30,13,3,2,4,5,6,3,7
+Whiskers,Abyssinian,4.7,25,15,2,0,8,8,9,7,8
+Eiko,Khao Manee,3.3,21,16,1,1,8,8,7,3,10
+Goldie,Scottish Fold,4.0,21,15,2,2,4,7,7,4,8
+Soda pop,Scottish Fold,4.0,21,15,3,2,4,6,6,5,9
+Tofu,Bengal,6.9,28,13,2,1,9,7,10,7,8
+Sora,Munchkin,2.3,16,13,2,1,6,6,8,4,8
+Geneva,Persian,5.5,31,14,3,3,5,5,4,2,6
+Hopper,Persian,3.9,30,13,3,3,5,6,3,4,5
+Blossom,Ragdoll,4.1,26,16,3,2,5,7,6,2,7
+Goofy,Bengal,4.7,30,15,2,1,10,6,10,6,9
+Ozzy,Persian,6.7,27,12,3,3,3,5,4,4,6
+Sakura,Siamese,5.4,26,15,2,1,9,8,9,8,8
+Qwerty,Khao Manee,4.4,21,16,2,1,8,8,9,5,10
+Cotton Candy,Khao Manee,4.9,23,16,2,1,8,8,7,4,9
+Amaya,Munchkin,2.2,18,14,2,1,5,7,8,4,8
+Furrball,Bengal,6.9,28,13,2,1,9,8,9,7,7
+Navajo,Sphynx,4.9,23,13,0,0,8,7,7,9,8
+Nintendo,British Shorthair,5.4,27,13,1,1,4,7,4,4,6
+Bitsi,Persian,4.4,26,14,3,3,3,6,3,2,5
+Haruko,Abyssinian,3.9,22,10,1,0,8,6,8,6,8
+Yoshi,Munchkin,4.0,15,14,2,1,7,7,7,4,8
+Hoshi,Ragdoll,6.4,26,15,3,2,5,6,5,2,6
+Amiga,Sphynx,3.3,22,13,0,0,6,7,7,7,8
+Asa,Siamese,4.5,26,13,2,1,8,7,10,8,8
+Milkshake,Bengal,4.5,27,16,1,1,9,8,10,7,8
+Chipmunk,Munchkin,3.8,16,12,1,1,7,6,7,5,8
+Snuggles,Persian,6.7,31,15,3,3,4,6,4,2,4
+Bootsy,Khao Manee,4.1,23,12,1,1,7,8,7,5,9
+Katsuro,Abyssinian,4.5,26,11,2,0,7,6,7,7,10
+Truffles,Siamese,5.0,25,12,1,1,8,8,8,8,8
+Pumpkin,Munchkin,3.1,16,14,1,1,6,7,9,6,8
+Hannibal,Sphynx,3.2,22,14,0,0,6,6,5,9,8
+Ichiro,Scottish Fold,3.1,23,13,2,2,6,8,7,5,7
+Kohana,Bengal,6.5,34,13,2,1,10,8,10,7,7
+Fuku,Scottish Fold,4.5,21,14,2,2,4,7,7,5,8
+Naoko,Scottish Fold,5.9,23,12,2,2,6,7,5,4,9
+Aragorn,British Shorthair,4.4,26,14,2,1,5,6,3,4,7
+Sapphire,Sphynx,3.7,27,12,0,0,8,6,6,8,8
+Violet,Sphynx,4.2,26,13,0,0,6,6,6,9,7
+Taiki,Persian,6.2,32,13,3,3,5,6,3,4,5
+Vega,Ragdoll,5.6,29,13,3,2,5,6,5,3,6
+Snickers,Persian,3.9,32,10,3,3,4,6,3,2,4
+Cute,Scottish Fold,4.6,21,13,3,2,5,7,5,4,7
+Noodles,Munchkin,2.9,21,13,1,1,7,7,7,5,9
+Cinnamon,British Shorthair,4.2,25,17,1,1,5,6,4,3,7
+Dumpling,Munchkin,3.7,17,14,2,1,6,6,8,4,7
+Masaki,British Shorthair,4.3,28,13,1,1,6,5,3,2,6
+Phoenix,Abyssinian,4.0,21,11,1,0,7,6,8,5,10
+Napoleon,British Shorthair,6.7,28,17,2,1,4,5,3,3,8
+Kohana,Persian,4.8,27,14,3,3,4,5,3,2,5
+Akira,Munchkin,3.4,19,14,2,1,7,8,9,6,7
+Purrfect,British Shorthair,6.1,29,17,1,1,4,7,3,3,8
+Bonbon,Khao Manee,5.0,25,14,2,1,7,6,9,5,8
+Dai,Ragdoll,7.7,26,17,3,2,4,5,5,2,6
+Butterfly,Khao Manee,4.5,24,14,1,1,8,6,7,3,10
+Ariel,Munchkin,2.7,21,12,1,1,5,8,9,5,7
+Trixie,Bengal,7.0,25,15,1,1,10,7,10,6,9
+Jazzy,Sphynx,4.4,27,12,0,0,7,5,5,7,9
+More,Bengal,4.5,25,13,1,1,10,8,10,7,9
+Maui,Bengal,6.0,33,14,1,1,9,8,9,7,9
+Hunny Bunny,Siamese,5.0,25,12,1,1,8,6,10,10,10
+Hisoka,Scottish Fold,5.4,24,14,2,2,5,6,5,5,7
+Penelope,British Shorthair,5.7,26,16,1,1,4,5,3,4,7
+Naoki,Scottish Fold,3.5,23,12,3,2,4,7,7,5,8
+Cutie Pie,Ragdoll,5.6,26,14,3,2,5,5,6,3,7
+Goldie,Scottish Fold,4.8,25,13,3,2,5,8,7,5,8
+Godfather,Abyssinian,4.0,26,12,2,0,9,7,7,6,9
+Furrball,Bengal,6.6,27,15,1,1,10,7,10,8,7
+Midori,Scottish Fold,4.5,23,13,3,2,6,6,7,4,7
+Domino,Ragdoll,5.6,26,15,3,2,3,5,4,2,7
+Moonbeam,Siamese,4.7,23,15,1,1,7,6,9,10,8
+Iggy,Munchkin,3.5,21,12,1,1,5,8,8,5,8
+Snuggles,Siamese,4.3,22,12,2,1,9,7,9,10,10
+Naoko,Persian,7.0,29,12,3,3,5,6,3,3,5
+Ping Pong,Bengal,5.2,32,12,1,1,9,8,9,6,9
+Chiffon,Bengal,4.7,32,13,1,1,9,8,10,8,9
+Hiroshi,Siamese,5.7,23,13,1,1,9,7,10,8,8
+Misty,Bengal,7.9,25,15,1,1,10,8,10,6,7
+Buttercup,Khao Manee,3.2,24,14,1,1,8,6,8,5,10
+Peanut,Ragdoll,6.4,29,13,3,2,4,7,5,3,7
+Winky,Siamese,5.1,25,13,2,1,8,7,10,9,8
+Yuki,Ragdoll,8.2,31,13,3,2,3,6,4,3,7
+Cookie,British Shorthair,5.8,27,17,1,1,5,5,4,4,7
+Cutesy,Khao Manee,4.9,23,15,1,1,6,6,8,5,10
+Butterball,Bengal,6.8,32,14,1,1,9,6,10,8,9
+Furrball,Abyssinian,3.7,24,10,2,0,7,6,7,6,9
+Kei,Khao Manee,4.6,21,15,2,1,8,7,7,5,9
+Opal,British Shorthair,4.6,30,13,2,1,5,7,3,4,8
+Wicca,Abyssinian,4.8,26,11,1,0,7,8,8,5,10
+Jujube,Abyssinian,4.8,20,10,1,0,7,8,9,5,9
+Ginkgo,Abyssinian,4.9,25,10,2,0,9,6,8,7,9
+Orion,British Shorthair,4.7,29,12,1,1,4,5,5,3,6
+Apple,Siamese,6.0,23,12,1,1,9,7,8,10,9
+Sushi,Abyssinian,3.1,25,13,2,0,7,6,7,6,8
+Ivy,Munchkin,3.7,16,12,2,1,6,8,7,5,9
+Cashmere,Persian,3.4,27,12,3,3,3,6,4,3,5
+Furrball,Persian,4.1,29,11,3,3,3,4,4,4,6
+Judo,Khao Manee,4.2,20,16,2,1,8,7,9,3,10
+Moonbeam,Abyssinian,4.5,20,12,1,0,8,7,7,7,10
+Harmonica,Persian,4.4,26,15,3,3,3,5,4,4,6
+Pele,Sphynx,3.7,21,14,0,0,7,6,6,8,7
+Lagos,Ragdoll,5.8,27,12,3,2,5,7,5,4,8
+Phoenix,Siamese,5.3,20,12,2,1,8,7,10,8,8
+Venus,Bengal,4.9,25,13,2,1,8,8,10,8,7
+Lambchop,Persian,5.0,26,11,3,3,3,5,3,4,6
+Bumble,Bengal,6.5,32,16,1,1,8,6,10,7,8
+Tiara,British Shorthair,5.2,29,15,2,1,4,7,3,2,7
+More,British Shorthair,4.5,29,12,2,1,5,6,5,4,7
+Crocket,Scottish Fold,5.7,24,13,3,2,5,6,6,3,9
+Patches,Scottish Fold,4.3,20,13,3,2,6,8,6,5,8
+Ichiro,Ragdoll,6.6,32,13,3,2,3,7,5,3,6
+Hiroki,Munchkin,3.7,18,14,2,1,5,6,8,5,8
+Ariel,Munchkin,2.7,19,14,2,1,7,7,8,5,9
+Kitty,Scottish Fold,5.7,24,13,2,2,4,7,7,4,9
+Licorice,Persian,4.0,25,11,3,3,5,5,5,4,6
+Icicles,Munchkin,2.8,18,13,2,1,7,6,9,6,9
+Zion,Scottish Fold,5.0,25,14,2,2,5,7,7,4,8
+Haiku,Munchkin,3.0,15,14,2,1,7,7,7,4,7
+Haiku,Sphynx,3.3,24,13,0,0,6,6,7,8,9
+Kipling,Siamese,4.6,24,12,2,1,7,8,9,8,8
+Nariko,Persian,5.2,31,15,3,3,5,6,3,4,5
+More,Persian,3.8,29,10,3,3,5,4,4,4,5
+Reo,Persian,5.2,30,10,3,3,5,4,4,2,6
+Tabby,Scottish Fold,4.6,23,13,2,2,5,6,6,4,9
+Nibbles,Bengal,6.9,35,12,2,1,10,8,9,6,9
+Hisashi,Abyssinian,4.8,20,12,2,0,7,7,9,6,10
+Haru,Persian,5.9,26,11,3,3,3,6,4,4,5
+Chie,Munchkin,2.7,16,13,2,1,6,7,8,4,9
+Matsui,British Shorthair,4.8,25,16,1,1,4,5,4,4,8
+Maui,Abyssinian,4.7,23,13,1,0,9,6,8,6,10
+Sorrell,Siamese,3.5,22,15,1,1,7,7,10,9,8
+Button,Bengal,6.5,25,15,1,1,8,8,10,6,7
+Slinky,Ragdoll,8.5,29,14,3,2,3,6,5,3,8
+Makoto,Abyssinian,4.1,20,12,2,0,7,6,8,6,9
+Stumbles,Sphynx,4.2,27,14,0,0,7,7,7,8,8
+Sorrell,Sphynx,3.2,21,14,0,0,6,7,6,8,9
+Yori,Ragdoll,4.4,32,12,3,2,5,7,4,2,8
+Twiggie,Ragdoll,8.1,29,16,3,2,3,5,4,3,6
+Pixie,Bengal,5.9,35,14,2,1,8,7,10,6,7
+Gala,Bengal,6.8,30,16,1,1,10,7,10,8,9
+Squiggle,Munchkin,3.9,18,12,1,1,7,7,7,5,7
+Houdini,Ragdoll,6.6,26,14,3,2,5,6,4,2,6
+Bundles,Ragdoll,5.0,32,12,3,2,4,7,4,3,6
+Whiskers,Sphynx,4.2,27,14,0,0,6,5,6,8,7
+Twiggie,Munchkin,2.6,15,13,1,1,5,6,8,6,7
+Buddha,British Shorthair,5.4,30,15,1,1,6,5,3,2,6
+Godfather,British Shorthair,5.3,25,16,2,1,6,5,5,4,7
+Reo,Sphynx,4.6,21,14,0,0,8,5,7,9,7
+Isamu,Persian,3.8,27,15,3,3,3,5,5,4,4
+Hisashi,Khao Manee,3.6,26,14,2,1,8,8,8,5,10
+Button,British Shorthair,4.1,28,15,2,1,6,5,3,2,6
+Nibs,Ragdoll,7.7,32,16,3,2,5,6,5,4,7
+Hendrix,British Shorthair,5.1,26,16,1,1,4,6,4,4,6
+Avalon,Persian,4.3,26,15,3,3,4,6,4,2,4
+Champ,Abyssinian,4.7,22,12,2,0,8,6,9,5,8
+Norio,Munchkin,3.5,18,13,2,1,6,6,7,4,9
+Keiko,Munchkin,3.1,16,13,2,1,5,8,9,6,8
+Daisuke,Sphynx,3.6,26,12,0,0,7,5,5,8,8
+Celestia,Ragdoll,8.0,28,12,3,2,4,5,4,3,7
+Beowulf,Persian,5.3,27,14,3,3,3,6,5,4,6
+Daisy,Abyssinian,3.6,25,11,1,0,7,7,7,7,8
+Hazel,Bengal,7.9,35,14,2,1,9,6,9,6,8
+Kioko,Abyssinian,4.0,24,15,2,0,7,6,7,5,8
+Orion,Sphynx,4.1,23,12,0,0,7,5,6,9,8
+Morocco,British Shorthair,5.7,30,15,1,1,5,7,4,4,6
+Snuggles,Sphynx,4.4,26,13,0,0,8,5,7,9,7
+Masi,Ragdoll,7.3,25,14,3,2,4,7,6,3,7
+Hobbes,British Shorthair,5.5,26,13,2,1,4,5,5,2,8
+Kitty,Bengal,7.5,31,13,1,1,8,6,9,6,8
+Athena,Ragdoll,8.1,29,16,3,2,3,5,4,4,7
+Ariel,Persian,3.4,26,15,3,3,5,6,4,3,4
+Nibbles,Bengal,6.3,34,15,1,1,9,8,9,6,8
+Koji,Munchkin,3.1,18,14,1,1,5,6,9,5,9
+Tofu,Munchkin,3.3,17,14,2,1,5,8,7,5,9
+Olive,Bengal,7.2,32,14,2,1,8,7,9,7,9
+Victor,Scottish Fold,5.5,20,14,2,2,4,8,7,3,8
+Bumble,Ragdoll,7.8,31,13,3,2,5,5,6,3,8
+Pocket,Ragdoll,5.2,25,14,3,2,3,5,6,4,6
+Naoko,Abyssinian,4.5,21,10,2,0,7,8,9,6,10
+Angel,British Shorthair,5.3,26,14,1,1,5,7,3,4,6
+Marbles,British Shorthair,5.3,29,15,1,1,5,5,4,4,7
+Adorable,Siamese,5.0,26,12,2,1,7,8,9,9,8
+Beowulf,Sphynx,4.3,24,12,0,0,8,6,5,7,9
+Akihiko,Scottish Fold,5.4,22,14,2,2,4,8,5,4,9
+Makoto,Ragdoll,6.2,32,16,3,2,5,6,5,2,6
+Yoshi,Scottish Fold,4.0,22,13,3,2,4,8,7,4,8
+Sweet Pea,British Shorthair,4.9,27,17,1,1,5,5,5,4,7
+Frisky,Abyssinian,3.8,21,14,1,0,7,8,7,6,8
+Squiggle,Ragdoll,8.5,28,13,3,2,4,5,5,2,8
+Ozzy,Bengal,7.2,30,16,1,1,9,6,10,8,9
+Chie,Siamese,5.2,23,14,1,1,9,8,8,8,8
+Asami,Abyssinian,3.5,22,14,2,0,8,6,7,6,8
+Aurora,Sphynx,4.0,22,13,0,0,6,6,5,7,8
+Esperanto,Siamese,5.3,24,14,2,1,8,7,10,9,9
+Kin,Bengal,4.1,25,14,1,1,10,7,9,7,7
+Cuddles,British Shorthair,4.1,25,13,1,1,4,7,3,2,8
+Bubble,Munchkin,2.5,15,12,1,1,7,7,7,4,7
+Kioshi,Abyssinian,4.2,20,11,1,0,9,7,9,5,9
+Dizzy,Sphynx,3.5,23,12,0,0,7,7,5,8,7
+Deja,Persian,4.9,28,13,3,3,5,4,3,4,4
+Wizard,Bengal,4.5,33,13,2,1,9,6,10,7,9
+Biscuit,Siamese,4.7,26,13,1,1,9,8,8,8,10
+Navajo,Munchkin,2.3,21,13,2,1,5,7,7,6,9
+Masaki,Ragdoll,6.2,25,14,3,2,5,7,6,3,8
+Checkers,Bengal,6.5,28,13,1,1,8,7,9,8,9
+Guinevere,Munchkin,3.7,20,14,1,1,5,6,7,6,7
+Trinity,Persian,4.8,30,10,3,3,5,4,3,4,6
+Hikari,Khao Manee,3.7,26,16,2,1,6,8,8,3,9
+Sax,Bengal,7.5,33,14,1,1,9,8,10,7,9
+Buddha,Bengal,4.8,26,14,2,1,10,6,9,8,7
+Koko,Persian,3.3,32,12,3,3,4,6,5,2,6
+Sweetness,Sphynx,4.3,26,12,0,0,7,6,7,8,9
+Diva,Munchkin,3.5,15,13,1,1,7,6,8,6,7
+Minoru,Abyssinian,4.4,23,13,1,0,7,7,9,6,8
+Blacky,Bengal,5.7,33,13,1,1,8,7,10,8,7
+Bitsi,Khao Manee,4.0,22,12,2,1,8,7,7,4,9
+Sassy,British Shorthair,6.0,27,14,1,1,4,5,3,3,7
+Milkshake,Persian,6.9,30,10,3,3,4,6,4,4,4
+Haiku,Sphynx,4.1,24,13,0,0,7,5,6,7,9
+Snowball,Siamese,5.2,25,15,2,1,7,8,8,10,8
+Hobo,Siamese,5.7,25,15,1,1,9,7,8,8,9
+Harmonica,Munchkin,2.9,17,14,1,1,7,6,8,4,8
+Giggles,Munchkin,2.1,21,13,1,1,7,8,7,4,8
+Amaya,Abyssinian,3.1,22,13,2,0,9,7,7,5,8
+Akihiko,Persian,3.9,27,12,3,3,3,5,5,4,4
+Galileo,British Shorthair,5.6,27,14,2,1,6,6,5,3,6
+Winky,Sphynx,3.6,27,14,0,0,6,6,7,9,7
+Maiya,Abyssinian,3.0,20,14,2,0,9,7,7,7,8
+Stumbles,Khao Manee,3.2,24,15,1,1,7,7,8,5,8
+Arwen,British Shorthair,5.8,30,15,2,1,5,5,3,3,7
+Hoshi,Khao Manee,3.6,22,12,2,1,8,8,9,3,9
+Yoshie,Persian,4.0,30,14,3,3,5,6,4,3,4
+Angelic,Ragdoll,6.5,29,12,3,2,5,7,5,3,7
+Zen,Scottish Fold,5.6,23,15,3,2,4,8,5,4,7
+Bubbles,Sphynx,4.9,24,13,0,0,8,5,6,9,9
+Ramses,Ragdoll,8.3,25,14,3,2,3,6,4,2,7
+Guinevere,Bengal,4.8,32,13,2,1,9,8,10,7,7
+Unique,Scottish Fold,5.7,22,14,3,2,6,8,7,3,7
+Dai,Khao Manee,3.4,26,15,2,1,6,8,8,4,10
+Adorable,Scottish Fold,4.0,21,13,2,2,4,8,6,3,7
+Doraemon,Sphynx,4.6,20,13,0,0,8,6,7,7,7
+Lucky,British Shorthair,4.6,29,12,2,1,6,5,5,2,7
+Goldilocks,Khao Manee,4.1,26,12,2,1,6,8,9,5,10
+Pookie,Scottish Fold,4.7,22,13,3,2,6,8,6,5,8
+Sakura,Siamese,5.6,22,13,2,1,9,7,10,8,8
+Deja,Siamese,5.3,24,14,1,1,9,7,9,8,10
+Beowulf,British Shorthair,4.9,29,14,1,1,6,7,5,2,6
+Cute,Siamese,4.0,22,14,1,1,9,7,10,10,8
+Hiroshi,Persian,4.9,26,15,3,3,4,5,4,2,6
+Electra,Sphynx,3.1,24,12,0,0,7,6,5,8,7
+Umeko,Abyssinian,3.4,26,13,2,0,8,6,8,7,9
+Taffy,Bengal,4.4,27,12,1,1,10,8,9,7,8
+Truffles,Sphynx,3.3,26,13,0,0,6,7,7,9,7
+Nori,Siamese,4.4,25,14,2,1,8,6,10,8,9
+Calypso,Bengal,4.4,27,16,1,1,10,7,10,6,7
+Moonbeam,Ragdoll,6.9,31,17,3,2,5,7,5,4,8
+Yoshi,Khao Manee,3.2,20,15,2,1,6,7,8,5,9
+Miki,Sphynx,3.5,26,14,0,0,8,5,6,9,9
+Butterbean,Sphynx,3.3,21,14,0,0,8,5,5,9,7
+Goofy,Abyssinian,4.5,25,15,2,0,9,8,7,6,8
+Peaches,Siamese,5.9,26,13,1,1,7,6,8,9,10
+Kohana,Bengal,4.5,28,12,2,1,9,6,10,8,8
+Bluebell,Munchkin,2.6,19,12,2,1,7,7,8,4,8
+Popcorn,Khao Manee,3.8,20,15,2,1,7,6,9,3,8
+Gumdrop,Munchkin,2.8,21,12,1,1,5,6,9,5,8
+Orion,Munchkin,2.3,16,13,1,1,5,7,9,5,8
+Banjo,Ragdoll,4.0,25,16,3,2,4,7,4,3,7
+Puddin,Persian,6.8,30,14,3,3,3,6,3,4,5
+Tarzan,Abyssinian,3.5,24,13,1,0,8,7,8,6,9
+Guinevere,Abyssinian,3.5,20,12,2,0,9,6,7,7,8
+Ferrari,Bengal,4.7,29,15,2,1,9,6,9,6,7
+Pharaoh,British Shorthair,5.1,27,15,2,1,5,6,4,4,7
+Kyoko,British Shorthair,6.0,27,16,1,1,5,7,4,3,7
+Ramses,Bengal,5.3,26,13,2,1,9,8,9,8,9
+Nibs,Munchkin,3.5,17,13,1,1,7,6,7,6,9
+Naoki,Khao Manee,3.7,21,13,1,1,6,7,8,4,9
+Lucky,Ragdoll,5.6,30,13,3,2,4,6,5,2,7
+Deja,British Shorthair,4.2,30,12,1,1,5,6,3,3,6
+Norio,Persian,6.8,32,12,3,3,3,6,4,3,5
+Umeko,British Shorthair,6.9,27,12,2,1,4,7,3,2,8
+Kuro,Scottish Fold,4.9,26,13,3,2,5,8,7,5,9
+Kitty,Ragdoll,8.1,27,15,3,2,5,6,5,4,6
+Pussycat,Scottish Fold,5.1,26,12,3,2,4,8,7,5,7
+Isao,Ragdoll,7.3,32,16,3,2,5,5,6,3,8
+Hippie,Abyssinian,3.6,20,12,1,0,7,8,7,6,9
+Empress,Abyssinian,3.6,25,11,2,0,9,6,7,6,10
+Jimbo,Sphynx,5.0,20,13,0,0,7,7,6,8,8
+Butterbean,British Shorthair,4.1,30,14,1,1,5,6,3,3,7
+Yoko,British Shorthair,5.5,25,13,2,1,6,6,3,2,8
+Taffy,Siamese,3.0,23,12,1,1,7,8,9,9,8
+Napoleon,Persian,5.2,28,11,3,3,4,6,3,3,6
+Vanilla,Persian,6.7,32,11,3,3,4,4,3,2,4
+Puddin,British Shorthair,4.5,29,16,1,1,4,6,4,4,6
+Jiro,Sphynx,4.5,24,13,0,0,8,6,7,7,8
+Bumble,Sphynx,4.5,22,12,0,0,8,7,7,8,7
+Nariko,Abyssinian,4.0,25,11,2,0,8,6,9,5,9
+Tortie,Khao Manee,3.3,21,15,2,1,6,8,9,5,9
+Snowflake,Sphynx,3.2,23,12,0,0,6,5,6,7,9
+Saki,British Shorthair,5.5,26,12,2,1,6,7,3,4,7
+Christmas,British Shorthair,6.5,29,14,2,1,5,7,5,2,8
+Aurora,Scottish Fold,3.5,20,13,2,2,5,8,5,3,8
+Juniper,Ragdoll,8.1,32,12,3,2,4,5,6,2,8
+Tipsy,Ragdoll,5.1,25,15,3,2,3,7,4,3,7
+Chiffon,Munchkin,2.5,20,12,1,1,5,7,9,4,9
+Lakshmi,Sphynx,4.6,23,14,0,0,6,6,6,8,8
+Hoshi,British Shorthair,4.8,30,13,1,1,5,7,4,4,6
+Cookie,Munchkin,2.0,20,13,2,1,6,8,9,4,9
+Mai,Siamese,4.1,24,13,2,1,7,7,8,10,10
+Enigma,Bengal,4.1,28,14,2,1,10,7,9,6,8
+Truffles,Abyssinian,3.6,20,15,2,0,9,7,8,6,10
+Hobbes,Munchkin,3.3,15,12,2,1,5,7,8,5,9
+Archimedes,British Shorthair,4.0,25,13,1,1,6,7,3,3,8
+Haru,Scottish Fold,4.1,23,14,3,2,4,8,6,5,9
+Aiko,Munchkin,3.9,17,13,2,1,5,7,8,6,8
+Kimi,British Shorthair,6.7,29,17,2,1,5,7,5,3,7
+Kyoko,Munchkin,2.4,20,14,2,1,6,7,9,4,8
+Fuku,British Shorthair,6.0,30,13,2,1,5,5,4,2,6
+Keiji,Ragdoll,5.4,32,14,3,2,4,5,4,2,6
+Osprey,Abyssinian,3.8,26,15,2,0,8,7,9,5,8
+Teacup,Persian,4.1,32,13,3,3,3,5,4,2,4
+Asami,Bengal,6.4,28,16,2,1,10,8,9,6,9
+Gum Drop,Scottish Fold,5.8,21,14,3,2,6,6,7,5,7
+Isao,Munchkin,3.2,18,13,2,1,7,6,7,6,9
+Emi,Scottish Fold,5.6,23,12,2,2,4,8,5,4,8
+Akina,British Shorthair,5.5,26,12,1,1,6,5,4,4,7
+Cuddles,Khao Manee,3.1,24,16,2,1,6,7,7,4,9
+Marie,Scottish Fold,4.0,25,13,2,2,5,7,5,3,8
+Shira,Abyssinian,3.8,23,14,1,0,7,7,9,7,10
+Michi,Ragdoll,6.7,26,16,3,2,5,6,5,2,7
+Masuru,Munchkin,3.3,19,13,1,1,5,6,9,4,7
+Cookie,Bengal,7.5,30,15,1,1,9,7,9,6,9
+Aiko,Abyssinian,4.4,22,11,1,0,7,7,9,5,8
+Avalon,Munchkin,2.6,21,12,1,1,6,6,8,4,9
+Romeo,Ragdoll,7.9,31,12,3,2,5,7,4,2,6
+Gorgeous,Scottish Fold,4.5,22,14,2,2,6,8,5,3,8
+Ayame,Munchkin,2.2,15,12,2,1,5,6,8,6,9
+Gemini,Abyssinian,3.3,26,15,2,0,7,7,9,6,9
+Trixie,Khao Manee,4.9,26,16,2,1,8,8,7,5,10
+Geneva,Persian,4.4,25,13,3,3,4,6,3,4,6
+Beowulf,Siamese,3.7,24,12,1,1,8,8,9,10,8
+Cricket,Persian,6.0,27,13,3,3,5,5,3,4,6
+Navajo,Abyssinian,3.2,25,10,1,0,9,8,8,7,8
+Hiro,Bengal,7.6,26,12,1,1,8,8,10,6,9
+Taka,Munchkin,2.6,15,14,1,1,5,6,8,6,8
+Jiggles,Scottish Fold,4.7,24,13,3,2,6,7,7,4,8
+Sora,Munchkin,3.6,18,13,2,1,5,6,9,4,7
+Nariko,Bengal,4.5,29,13,1,1,8,8,9,6,7
+Ichiro,Persian,3.9,28,15,3,3,4,5,5,3,6
+Ziggy,Bengal,6.6,34,14,2,1,8,7,10,7,9
+Booboo,British Shorthair,6.2,30,17,1,1,5,7,5,2,6
+Kei,Persian,4.4,32,15,3,3,3,5,5,2,4
+Kuro,Munchkin,2.9,20,14,1,1,5,8,8,4,8
+Morocco,British Shorthair,5.3,27,12,1,1,5,7,4,4,8
+Jasmine,Munchkin,2.0,21,12,2,1,7,7,8,4,7
+Venus,Abyssinian,3.6,22,11,2,0,7,6,8,7,9
+Velvet,Persian,4.3,32,13,3,3,3,5,5,4,6
+Chika,Abyssinian,4.8,25,11,2,0,9,8,8,5,10
+Cupcake,Scottish Fold,4.8,20,13,3,2,4,8,5,4,8
+Ryu,Sphynx,4.4,27,12,0,0,6,6,5,9,9
+Moonbeam,British Shorthair,4.7,27,12,1,1,6,5,4,4,6
+Honeybee,Siamese,4.6,24,12,2,1,9,6,8,9,8
+Kuro,Siamese,4.9,25,13,2,1,8,6,10,8,8
+Makoto,Siamese,3.5,24,14,1,1,7,8,10,8,9
+Galileo,Bengal,5.8,34,16,1,1,9,6,9,7,9
+Peanut,Khao Manee,3.9,25,12,2,1,7,6,9,4,10
+Hippie,Ragdoll,8.4,26,12,3,2,5,5,6,2,7
+Euripides,British Shorthair,4.6,25,15,1,1,6,7,3,3,6
+Katsumi,Persian,5.1,32,13,3,3,5,5,5,4,5
+Jimbo,Khao Manee,3.9,21,15,2,1,6,7,9,4,9
+Maru,Scottish Fold,3.1,23,13,3,2,4,6,5,4,8
+Oki,Sphynx,4.3,25,14,0,0,7,5,7,8,9
+Amaya,Persian,5.3,25,15,3,3,3,4,5,3,6
+Sax,Munchkin,2.9,16,12,1,1,7,6,8,5,7
+Archimedes,Bengal,6.7,29,13,1,1,10,6,10,6,8
+Pharaoh,Munchkin,2.4,21,12,2,1,7,6,8,4,7
+Bento,Persian,4.4,31,13,3,3,4,5,5,4,5
+Juro,Abyssinian,3.7,23,10,2,0,9,7,7,7,10
+Hobbes,Munchkin,2.5,15,12,1,1,7,8,8,5,9
+Pussycat,Persian,4.3,29,11,3,3,4,4,4,2,4
+Zippy,Siamese,5.5,23,13,2,1,8,8,9,9,9
+Zaiden,Scottish Fold,5.2,23,13,3,2,6,7,5,5,8
+Michi,Bengal,6.8,35,16,2,1,9,8,10,8,7
+Munchkins,Ragdoll,5.0,28,17,3,2,4,6,6,2,6
+Jimbo,British Shorthair,5.5,25,14,2,1,5,6,4,2,7
+Benita,Siamese,4.2,25,13,2,1,8,7,9,8,10
+Hunny Bunny,Munchkin,3.7,16,13,2,1,6,8,9,5,7
+Queen,Siamese,5.2,24,12,1,1,8,6,9,9,10
+Taka,Khao Manee,4.7,21,16,1,1,7,8,9,4,9
+Mai,Ragdoll,8.7,27,14,3,2,4,6,5,2,8
+Kitty,Bengal,5.0,32,13,2,1,8,7,10,6,8
+Taiki,Siamese,4.2,20,14,1,1,8,7,9,10,8
+Hugo,Abyssinian,4.0,21,10,1,0,7,7,9,7,9
+Chipmunk,Bengal,6.8,32,12,2,1,10,8,10,7,7
+Sugar,Bengal,7.8,33,16,1,1,8,6,10,7,9
+Buddha,Munchkin,3.2,15,14,2,1,6,7,8,4,7
+Sacagawea,Scottish Fold,3.4,22,12,2,2,6,7,6,3,9
+Kei,Scottish Fold,3.3,22,15,3,2,6,8,6,3,8
+Momo,Scottish Fold,3.4,25,14,3,2,5,8,5,3,7
+Munchkin,Persian,3.9,27,11,3,3,3,4,4,2,5
+Hopper,Abyssinian,3.1,21,13,1,0,8,7,9,7,8
+Jiro,Siamese,6.0,21,14,2,1,7,8,8,9,9
+Cute,Ragdoll,5.5,28,14,3,2,3,5,4,3,6
+Tabby,Bengal,4.5,31,13,1,1,9,6,9,7,7
+Queen,Ragdoll,6.9,30,15,3,2,4,6,4,3,6
+Cookie,Scottish Fold,5.9,20,15,2,2,5,8,7,4,8
+Oki,British Shorthair,6.1,25,17,2,1,4,5,4,2,8
+Warrior,Abyssinian,4.0,26,12,2,0,7,8,9,6,8
+Cotton Candy,Khao Manee,3.8,20,12,1,1,8,7,7,4,10
+Honcho,Abyssinian,4.3,25,11,1,0,9,8,9,5,10
+Tempo,Persian,4.0,31,14,3,3,4,5,3,3,4
+Ginger,Khao Manee,3.8,26,16,1,1,8,7,8,3,8
+Yoshie,Abyssinian,4.3,22,15,2,0,7,6,7,5,10
+Rickles,Scottish Fold,5.1,22,13,3,2,4,6,7,4,7
+Butterball,Khao Manee,3.2,21,13,2,1,6,8,9,4,9
+Kioko,Khao Manee,3.4,23,16,1,1,8,6,8,5,8
+Wizard,Ragdoll,8.8,31,15,3,2,5,5,5,4,6
+Snickers,Khao Manee,4.6,23,15,2,1,7,7,8,3,9
+Pawsie,Khao Manee,3.1,26,16,1,1,6,8,7,3,9
+Zorro,Siamese,5.7,22,15,1,1,9,6,9,9,8
+Pocket,Siamese,5.7,24,12,1,1,9,8,10,8,9
+Mocha,Persian,6.3,26,15,3,3,5,5,3,3,5
+Electra,Khao Manee,3.4,24,16,2,1,7,6,8,3,8
+Olympia,Persian,4.6,28,14,3,3,4,6,3,2,5
+Kaddish,Siamese,4.9,26,14,2,1,8,6,8,10,8
+Romeo,Ragdoll,8.1,27,16,3,2,5,5,6,3,8
+Lara,Scottish Fold,5.0,20,15,2,2,5,6,5,4,7
+Hemingway,Siamese,6.0,22,15,1,1,9,6,8,10,10
+Romeo,Scottish Fold,3.9,25,15,3,2,4,6,7,4,8
+Zippy,British Shorthair,6.3,28,17,1,1,5,6,3,2,6
+Kohana,Munchkin,3.4,17,14,2,1,5,6,9,4,9
+Ruby,Bengal,7.4,31,16,1,1,8,6,9,6,8
+Bento,Bengal,7.4,33,15,2,1,10,6,9,6,8
+Navajo,Sphynx,3.7,27,13,0,0,8,6,7,8,9
+Koji,Scottish Fold,3.4,25,15,3,2,6,8,5,5,9
+Michiko,Khao Manee,3.8,21,16,2,1,8,8,8,4,10
+Nintendo,Siamese,5.9,26,13,1,1,8,6,10,9,10
+Muffin,Munchkin,3.3,21,12,2,1,5,7,8,6,8
+Keiji,Persian,6.4,32,10,3,3,3,6,5,4,4
+Chie,Scottish Fold,5.9,24,12,2,2,4,6,5,3,9
+Riggles,Abyssinian,3.7,26,15,2,0,8,6,9,6,9
+Mai,Sphynx,3.7,24,14,0,0,6,6,6,9,9
+Jun,Sphynx,3.3,27,13,0,0,8,5,5,9,9
+Haiku,Abyssinian,3.4,23,12,2,0,9,6,9,7,10
+Huggie,Ragdoll,5.0,32,16,3,2,3,6,6,3,8
+Snuggles,Bengal,5.5,35,14,1,1,8,6,9,7,7
+Adorable,Persian,4.0,27,14,3,3,5,6,3,3,6
+Princess,Siamese,5.4,25,14,2,1,7,7,9,10,10
+Katsuo,Khao Manee,3.2,25,12,1,1,7,7,7,4,10
+Zippy,Siamese,3.4,22,15,1,1,9,8,8,9,10
+Blackberry,Persian,4.7,27,11,3,3,3,6,3,4,5
+Juliette,Persian,5.9,30,10,3,3,4,5,5,4,4
+Tofu,Ragdoll,7.7,25,16,3,2,3,5,6,3,8
+Kohana,Siamese,3.6,20,15,2,1,7,6,10,8,8
+Ziggy,Sphynx,3.8,24,12,0,0,8,6,7,8,9
+Checkers,Sphynx,4.1,27,13,0,0,7,5,6,8,7
+Kitkat,Khao Manee,4.8,23,13,1,1,8,6,9,3,10
+Caramel,Khao Manee,3.8,22,16,2,1,7,6,7,4,9
+Goldie,Scottish Fold,4.7,24,13,2,2,4,6,6,5,7
+Cashmere,Scottish Fold,5.4,23,13,2,2,4,6,6,4,8
+Fonz,Persian,7.0,29,10,3,3,5,6,3,2,6
+Snowflake,Munchkin,3.3,20,14,1,1,5,8,9,5,8
+Naoko,Bengal,7.3,31,15,1,1,10,7,9,7,9
+Goosebump,Munchkin,2.2,20,12,1,1,5,8,7,6,7
+Love Bug,Sphynx,4.2,24,14,0,0,7,5,6,8,8
+Jasmine,Ragdoll,8.3,30,14,3,2,3,6,4,2,6
+Fonzie,Scottish Fold,5.3,24,14,2,2,5,7,7,3,8
+Jun,British Shorthair,4.9,25,15,2,1,5,7,4,4,7
+Nesca,Scottish Fold,5.5,21,13,3,2,5,6,6,5,8
+Tortie,Khao Manee,4.3,22,14,2,1,8,8,7,3,9
+Domo,Siamese,4.7,25,14,1,1,7,8,8,10,8
+Cute,Scottish Fold,3.3,22,12,3,2,5,7,6,4,9
+Balzac,Bengal,7.0,33,16,2,1,9,6,9,6,8
+Sephora,Scottish Fold,3.1,23,12,2,2,5,8,5,3,8
+Keiji,Persian,3.4,28,11,3,3,5,6,4,3,5
+Hoshi,British Shorthair,5.4,26,17,1,1,6,7,4,3,7
+Sephora,Sphynx,4.6,27,14,0,0,8,6,7,7,7
+Soda pop,Persian,4.8,30,10,3,3,5,4,4,4,6
+Unique,Ragdoll,5.6,32,15,3,2,5,7,5,3,7
+Haiku,Scottish Fold,3.6,22,13,3,2,6,8,7,3,8
+Kimi,Munchkin,2.3,16,13,1,1,5,8,9,4,9
+Galileo,Bengal,7.4,33,16,1,1,9,6,9,6,8
+Fresca,Sphynx,3.0,27,13,0,0,8,7,7,7,9
+Muppet,Ragdoll,6.1,31,14,3,2,4,7,6,4,6
+Cricket,Khao Manee,4.6,23,14,1,1,8,6,7,5,9
+Twiggie,Ragdoll,5.7,31,15,3,2,4,5,5,3,8
+Isao,Ragdoll,6.5,27,14,3,2,5,7,5,2,8
+Sassy,Persian,4.2,29,15,3,3,3,5,4,3,4
+Tamako,Sphynx,3.1,20,14,0,0,7,7,7,8,8
+Qwerty,Siamese,3.9,22,15,2,1,8,6,8,10,10
+Sora,Khao Manee,3.8,21,13,1,1,8,8,7,3,8
+Warrior,Bengal,6.9,27,16,1,1,10,8,9,7,8
+Calix,British Shorthair,4.6,25,13,1,1,4,6,4,3,8
+Reiko,Siamese,3.2,25,15,2,1,7,6,9,8,8
+Zaiden,Abyssinian,4.0,22,14,2,0,8,7,9,7,9
+Sorrell,Abyssinian,4.1,20,13,2,0,7,8,7,7,9
+Reiko,Siamese,3.8,21,14,1,1,7,8,8,8,8
+Jett,Ragdoll,7.7,30,16,3,2,5,6,4,2,6
+Kioko,Sphynx,4.5,20,12,0,0,6,7,6,8,7
+Sugar,Siamese,5.1,22,15,2,1,7,6,10,10,10
+Kiyoshi,Munchkin,3.5,21,12,1,1,7,6,8,6,7
+Romeo,Khao Manee,3.5,26,15,2,1,6,6,8,3,8
+Biscuit,Sphynx,4.6,21,14,0,0,7,6,7,8,7
+Dante,Bengal,6.4,30,15,2,1,9,8,10,8,9
+Apple,Scottish Fold,4.9,25,15,2,2,6,8,5,5,9
+Sunshine,Munchkin,3.4,17,12,2,1,7,7,9,5,7
+Yamaha,Khao Manee,4.3,20,16,2,1,6,7,9,4,10
+Caramel,Khao Manee,3.3,20,15,1,1,8,6,8,3,9
+Tabby,British Shorthair,6.9,28,13,2,1,5,5,4,2,6
+Muggles,Sphynx,3.5,21,13,0,0,8,5,7,7,9
+Moses,Abyssinian,4.1,20,10,1,0,9,7,7,7,8
+Goosebump,Khao Manee,3.8,24,15,2,1,8,8,8,4,9
+Pixie,Scottish Fold,4.9,25,14,2,2,4,6,7,5,7
+Domino,Persian,4.3,26,11,3,3,4,6,5,2,4
+Pixie,Ragdoll,8.0,29,13,3,2,4,6,4,3,8
+Juliette,Abyssinian,4.4,20,10,2,0,8,8,7,7,8
+Phoenix,British Shorthair,4.8,28,17,2,1,6,7,5,4,7
+Barbie,Khao Manee,3.9,24,12,2,1,6,6,9,3,10
+Butterbean,Persian,6.2,28,14,3,3,4,4,3,4,6
+Licorice,Ragdoll,5.8,32,16,3,2,5,6,4,2,8
+Pele,Abyssinian,4.4,21,12,2,0,7,6,8,6,9
+Tiara,Khao Manee,3.5,23,14,2,1,8,8,9,5,10
+Zion,Sphynx,4.8,25,13,0,0,6,5,6,7,8
+Velvet,Munchkin,3.5,15,14,2,1,5,8,9,6,8
+Lucky,Munchkin,3.0,19,13,2,1,7,8,8,4,7
+Pumpkin,British Shorthair,6.4,28,12,2,1,4,6,5,2,8
+Whiskers,Sphynx,3.2,21,14,0,0,6,7,7,9,7
+Truffles,Sphynx,3.6,20,13,0,0,7,7,5,7,9
+Bubble,Bengal,5.1,33,14,2,1,8,7,10,8,7
+Cho,Sphynx,3.5,26,12,0,0,7,6,6,9,7
+Aria,Scottish Fold,4.5,24,13,2,2,6,6,7,5,8
+Kitkat,Siamese,4.4,23,15,1,1,8,7,8,9,8
+Archimedes,Bengal,7.7,35,15,2,1,8,7,10,7,7
+Bella,Bengal,6.8,27,16,2,1,10,7,9,7,8
+Ozzy,Scottish Fold,5.6,22,13,2,2,6,8,6,5,7
+Cute,Bengal,6.6,30,13,2,1,9,8,9,6,9
+Cricket,Bengal,4.9,32,13,2,1,10,8,10,6,8
+Haiku,British Shorthair,6.4,26,15,2,1,6,7,3,4,8
+Bunny,Siamese,3.8,20,13,1,1,7,8,9,9,8
+Snowball,Ragdoll,4.3,30,16,3,2,3,6,4,2,7
+Aiko,Ragdoll,6.5,25,12,3,2,4,6,4,2,6
+Squanto,Khao Manee,3.8,20,13,1,1,6,8,7,3,8
+Lagos,Ragdoll,7.7,26,13,3,2,4,7,6,3,8
+Noriko,Siamese,4.1,26,13,2,1,9,6,9,10,9
+Bodhi,Siamese,4.7,26,13,2,1,8,8,8,9,8
+Barbie,Khao Manee,4.1,21,13,2,1,7,6,8,5,8
+Apple,British Shorthair,6.5,26,17,1,1,6,5,4,4,6
+Snugums,Khao Manee,5.0,26,12,1,1,7,7,7,4,10
+Flipper,Siamese,5.4,21,13,1,1,8,6,8,8,8
+Chika,Munchkin,3.8,18,12,2,1,6,8,8,4,7
+Venus,Siamese,4.0,22,13,1,1,8,7,9,8,9
