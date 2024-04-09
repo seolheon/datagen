@@ -91,7 +91,6 @@ def generate_dataset():
 root = tk.Tk()
 root.title("Generate Cats Dataset")
 
-# Применяем стили из темы darkly
 style = Style(theme="darkly")
 
 generate_button = ttk.Button(root, text="Generate Dataset", command=generate_dataset)
